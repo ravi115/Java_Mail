@@ -23,9 +23,9 @@ public class JavaMailSender {
 		// port number
 		String port = "587";
 		// sender Email Id.
-		String mailFrom = "ravi115ranjan@gmail.com";
+		String mailFrom = "your_mail_id";
 		// sender Email Password.
-		String password = "Ravi96208@monu";
+		String password = "your_mail_passowrd";
 
 		// outgoing message information
 		// reciever's email Id
@@ -58,9 +58,9 @@ public class JavaMailSender {
 		// port number
 		String port = "587";
 		// sender Email Id.
-		String mailFrom = "ravi115ranjan@gmail.com";
+		String mailFrom = "your_mail_id";
 		// sender Email Password.
-		String password = "Ravi96208@monu";
+		String password = "your_mail_passowrd";
 
 		// outgoing message information
 		// reciever's email Id
@@ -94,9 +94,9 @@ public class JavaMailSender {
 		// port number
 		String port = "587";
 		// sender Email Id.
-		String mailFrom = "ravi115ranjan@gmail.com";
+		String mailFrom = "your_mail_id";
 		// sender Email Password.
-		String password = "Ravi96208@monu";
+		String password = "your_mail_passowrd";
 
 		// outgoing message information
 		// reciever's email Id
